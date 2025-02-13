@@ -1,0 +1,2 @@
+def disemvowel(s):
+    pass
